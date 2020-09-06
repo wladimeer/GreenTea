@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Green Tea</string>
+    <string name="customization">Personalización</string>
+    <string name="size">Tamaño</string>
+    <string name="milkChoice">Elección de Leche</string>
+    <string name="sugarChoice">Elección de Azucar</string>
+    <string name="quantity">Cantidad</string>
+    <string name="brewTea">Preparar Té</string>
+    <string name="number">0</string>
+    <string name="orderSummary">Resumen de Pedido</string>
+    <string name="teaReady">Tu Té Está Listo!</string>
+    <string name="teaType">Tipo de Té</string>
+    <string name="milkType">Tipo de Leche</string>
+    <string name="sugarAmount">Cantidad de Azucar</string>
+    <string name="orderTotal">Total Orden</string>
+    <string name="recommendation">
+        let your know you just ordered a delicious
+        tea from TeaTime and they can too!
+    </string>
+    <string name="sendEmail">Enviar Correo</string>
+    <string name="greenTea">Té Verde</string>
+</resources>
